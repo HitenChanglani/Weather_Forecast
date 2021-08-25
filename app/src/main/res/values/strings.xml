@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HW05</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="temperatureTextView">Temperature</string>
+    <string name="temperatureMaxTextView">Temperature Max</string>
+    <string name="temperatureMinTextView">Temperature Min</string>
+    <string name="descriptionTextView">Description</string>
+    <string name="humidityTextView">Humidity</string>
+    <string name="windspeedTextView">Wind Speed</string>
+    <string name="windDegreeTextView">Wind Degree</string>
+    <string name="cloudinessTextView">Cloudiness</string>
+    <string name="checkForecastButton">Check Forecast</string>
+    <string name="tempValueTextView" />
+    <string name="tempMaxValueTextView" />
+    <string name="tempMinValueTextView" />
+    <string name="descValueTextView" />
+    <string name="humidityValueTextView" />
+    <string name="windspeedValueTextView" />
+    <string name="windDegreeValueTextView" />
+    <string name="cloudinessValueTextView" />
+    <string name="humidityLayout">Humidity:</string>
+    <string name="cityTitle">Cities</string>
+    <string name="currentWeatherTitle">Current Weather</string>
+    <string name="weatherForecastTitle">Weather Forecast</string>
+    <string name="cityNameTextView" />
+    <string name="cityWeatherForecastTextView" />
+    <string name="error">Something is wrong!</string>
+    <string name="my_image_description">Image</string>
+    <string name="contentDescription">ImageView</string>
+</resources>
